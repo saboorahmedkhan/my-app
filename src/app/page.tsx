@@ -3,7 +3,7 @@ import Card from '../../component/card';
 export default function Home() {
   return (
     <div>
-      <h3>Hello World</h3>
+      <h3>Hello World PAKBIT</h3>
       <Card />
       <Card />
       <Card />
